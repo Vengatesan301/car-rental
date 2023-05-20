@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/gigo-car-rental/static/css/main.50b5eec2.css",
+    "main.js": "/gigo-car-rental/static/js/main.21d01da2.js",
+    "static/media/venueSuv.png": "/gigo-car-rental/static/media/venueSuv.c12fed3fecc61f883011.png",
+    "static/media/i20NlineHatchback.png": "/gigo-car-rental/static/media/i20NlineHatchback.3f6216d3d6dbd4695232.png",
+    "static/media/benzBG.jpg": "/gigo-car-rental/static/media/benzBG.ce549186d289a4fb7b3a.jpg",
+    "static/media/vernaSedan.png": "/gigo-car-rental/static/media/vernaSedan.0a3ca6d9cbc650b3c9bf.png",
+    "static/media/renaultBG.jpg": "/gigo-car-rental/static/media/renaultBG.49e92d5d9499ce979356.jpg",
+    "static/media/toyotaBg.jpg": "/gigo-car-rental/static/media/toyotaBg.abf340adcf6d666b417d.jpg",
+    "static/media/i20NlineBg.jpg": "/gigo-car-rental/static/media/i20NlineBg.bca58bbe90bf09baf179.jpg",
+    "static/media/vernaBg.jpg": "/gigo-car-rental/static/media/vernaBg.8d3b4c56f0f74bb530b7.jpg",
+    "static/media/venueBg.jpg": "/gigo-car-rental/static/media/venueBg.092423f06fc3da673fe7.jpg",
+    "static/media/virtusBg.jpg": "/gigo-car-rental/static/media/virtusBg.67f7329cc2e942478f88.jpg",
+    "static/media/RenaultDuster.png": "/gigo-car-rental/static/media/RenaultDuster.a6f934eb72441101ea22.png",
+    "static/media/benz.png": "/gigo-car-rental/static/media/benz.103b6b035aa84507b51a.png",
+    "static/media/virtuspng.png": "/gigo-car-rental/static/media/virtuspng.10be8e041b3d354a4309.png",
+    "static/media/slider-3.jpg": "/gigo-car-rental/static/media/slider-3.ed96ff21726e81c10f40.jpg",
+    "static/media/toyota.png": "/gigo-car-rental/static/media/toyota.0a5ff44461531a60b1ff.png",
+    "static/media/svg7.svg": "/gigo-car-rental/static/media/svg7.99af824cc09a19865aa5ab50f8933055.svg",
+    "static/media/svg4.svg": "/gigo-car-rental/static/media/svg4.44337d32091074f18e3110cb29a5b39e.svg",
+    "static/media/svg9.svg": "/gigo-car-rental/static/media/svg9.09fbbcc6f2fcbca2fec873e3538ab61b.svg",
+    "static/media/svg12.svg": "/gigo-car-rental/static/media/svg12.fa50a85daf3a53173ec9051e3c5bc243.svg",
+    "static/media/svg11.svg": "/gigo-car-rental/static/media/svg11.f6a08dd7b4733be330cadf1f62b2f9d5.svg",
+    "index.html": "/gigo-car-rental/index.html",
+    "main.50b5eec2.css.map": "/gigo-car-rental/static/css/main.50b5eec2.css.map",
+    "main.21d01da2.js.map": "/gigo-car-rental/static/js/main.21d01da2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50b5eec2.css",
+    "static/js/main.21d01da2.js"
+  ]
+}
