@@ -1,0 +1,115 @@
+.bookCont input {
+    color: black;
+}
+
+.bookCont {
+    color: black;
+    text-align: center;
+}
+
+.bookContH1 {
+    height: 100px;
+    background-color: #010606;
+}
+
+.bookContH1h1 {
+    position: relative;
+    top: 25px;
+    transition: all 0.3s;
+}
+
+.bookContH1h1:hover {
+    color: #01bf71;
+    letter-spacing: 5px;
+}
+
+@media screen and (max-width: 480px) {
+    .bookContH1h1:hover {
+        color: #01bf71;
+    }
+}
+
+.bookSearch{
+    display: flex;
+    flex-direction: row;
+    max-width: 1000px;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    margin-top: 2rem;
+}
+
+.bookSearch button{
+    margin: 10px;
+    font-size: 0.7rem;
+    border-radius: 50px;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    background-color: #010606;
+    color: #fff;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.bookSearch button:hover{
+    background-color: #01bf71;
+    color: #010606; 
+    font-weight: 400;
+}
+
+.filterCar h1{
+    color: #010606;
+}
+
+.mainContainer{
+    justify-content: center;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+.cardContainer{
+    overflow: hidden;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #cfead9;
+    border-radius: 20px;
+}
+
+.imgArea{
+    overflow: hidden;
+    height: 300px;
+    object-fit: contain;
+    width: 100%;
+    padding: 20px;
+}
+
+.carPara p{
+    text-align: left;
+    margin: 0 auto;
+    max-width: 500px;
+    padding-top: 20px;
+}
+
+.textArea{
+    line-height: 2rem;
+}
+
+.carBut{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.carButLink{
+    text-decoration: none;
+    max-width: 200px;
+    background-color: #010606;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    padding: 10px 20px;
+}

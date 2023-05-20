@@ -1,0 +1,84 @@
+.aboutCompany{
+    margin: 0;
+    padding: 0;
+    color: #010606;
+}
+
+.aboutH1{
+
+    background-color: #010606;
+    height: 100px;
+}
+
+.aboutH1 h1{
+    text-align: center;
+    position: relative;
+    top: 25px;
+    transition: all 0.3s;
+}
+
+.aboutH1 h1:hover{
+    color: #01bf71;
+    letter-spacing: 5px;
+}
+
+.aboutPara {
+    max-width: 1000px;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+@media screen and (max-width: 760px) {
+    .aboutPara{
+        max-width: 600px;
+        padding: 0 20px;
+    }
+
+    .aboutPara h3{
+        padding-top: 30px;
+    }
+    
+}
+
+.aboutPara p{
+    line-height: 2.5rem;
+    position: relative;
+    text-align: left;
+    padding-top: 30px;
+    font-weight: 500;
+}
+
+.aboutPara h3{
+    text-transform: uppercase;
+    text-align: center;
+    color: #01bf71;
+}
+
+.goHome{
+    text-align: center;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 135px;
+    margin: 0 auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.goHome:hover ,.linkGo:hover{
+    color: #01bf71;
+    font-weight: 700;
+}
+
+.linkGo{
+    color: #010606;
+    text-decoration: none;
+    text-align: center;
+}
+
+.arrowBack{
+    font-size: 20px;
+    position: relative;
+}

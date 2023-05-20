@@ -1,0 +1,15 @@
+.carBookingFil{
+    background-color: #010606;
+    margin: 0;
+    padding: 0;
+}
+
+.carBgImage{
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.carBgImage img{
+    width: 100%;
+}

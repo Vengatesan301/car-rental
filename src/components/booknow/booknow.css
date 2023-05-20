@@ -1,0 +1,73 @@
+.TextContainer {
+    color: #010606;
+    background-color: #fff;
+    height: 700px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.Textwrapper {
+    text-align: center;
+}
+
+.Textwrapper p {
+    color: #01bf71;
+    font-size: 16px;
+    line-height: 5rem;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+}
+
+.ImageCont {
+    display: flex;
+    flex-direction: column;
+    line-height: 7rem;
+    margin-top: 20px;
+}
+
+.ImageCont h1 {
+    width: 100%;
+    color: #010606;
+    margin-bottom: 10px;
+}
+
+.bookImg {
+    width: 40%;
+   margin-left: 35%; 
+
+}
+
+.bookNow {
+    color: #010606;
+    font-size: 3rem;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.book {
+    border-radius: 50px;
+    background: #010606;
+    padding: 12px 30px;
+    color: #fff;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.2s ease-in-out;
+    font-weight: 600;
+    text-decoration: none;
+    position: relative;
+}
+
+.book:hover {
+    transition: all 0.2s ease-in-out;
+    background: #01bf71;
+}
