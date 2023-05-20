@@ -11,7 +11,7 @@ function App() {
   return (
     <Router basename="car-rental">
       <Routes>
-        <Route path="/gigo-car-rental" element={<Home/>}  />
+        <Route path="/" element={<Home/>}  />
         <Route path="/logout" element={<Signin/>}  />
         <Route path="/booking" element={<Booking/>} />
         <Route path='/aboutcompany' element={<AboutCom />} />
